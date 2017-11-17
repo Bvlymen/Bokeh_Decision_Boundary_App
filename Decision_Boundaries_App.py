@@ -1,5 +1,5 @@
 #To run the app, on the commad line run:
-# $ bokeh serve --allow-websocket-origin=localhost:5006 --port=5006 ~/Downloads/Decision_Boundaries_App.py
+# $ bokeh serve --allow-websocket-origin=localhost:5006 --port=5006 ~/Downloads/Decision_Boundaries_App.py --show
 # This file must be in your downloads folder along with the dataset: "wage2.dta"
 
 import pandas as pd
